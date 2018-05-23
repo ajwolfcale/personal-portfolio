@@ -1,0 +1,111 @@
+/* your styles go here */
+
+.tech-logo{
+  height: 150px;
+}
+
+.ang{
+  height: 200px;
+  background-image: url("../img/angjs.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.boot{
+  height: 200px;
+  background-image: url("../img/bootstrap.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.express{
+  height: 200px;
+  background-image: url("../img/express.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.node{
+  height: 200px;
+  background-image: url("../img/Node.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.github{
+  height: 200px;
+  background-image: url("../img/github.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.js{
+  height: 200px;
+  background-image: url("../img/JavaScript.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.mocha{
+  height: 200px;
+  background-image: url("../img/mocha.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.psql{
+  height: 200px;
+  background-image: url("../img/postgresql-logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.jq{
+  height: 200px;
+  background-image: url("../img/jQuery.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.git{
+  height: 200px;
+  background-image: url("../img/git.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.sass{
+  height: 200px;
+  background-image: url("../img/sass.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.grunt{
+  height: 200px;
+  background-image: url("../img/grunt.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.sqlite{
+  height: 200px;
+  background-image: url("../img/SQLite.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.fb{
+  height: 200px;
+  background-image: url("../img/fb.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.chai{
+  height: 200px;
+  background-image: url("../img/chai.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.text-page{
+  background-image: url("../img/TN-flag.png"); 
+  background-repeat: no-repeat;
+  background-size: contain; 
+}
+
+
+@media screen and (max-width: 600px){
+  .text-page{
+    background-image: url("../img/mobile-flag.png"); 
+    background-repeat: no-repeat;
+    background-size: contain; 
+    }
+    
+}
